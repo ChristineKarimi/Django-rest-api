@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/karimi/Desktop/Group-project/virtual"
+VIRTUAL_ENV="/home/newton/Desktop/projects/creating_API_django/virtual"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
